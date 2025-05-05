@@ -5,3 +5,7 @@ This project was developed using **Expo Go** and can be viewed directly in your 
 - **Endterm Link**: https://snack.expo.dev/@cellinemaccabee/wordle-endterm
 - **NameTag Link**: https://snack.expo.dev/@cellinemaccabee/nametag
 - **Foodapp Link**: https://snack.expo.dev/@cellinemaccabee/food-app
+
+Grades: 
+Midterm: A
+Endterm: A
