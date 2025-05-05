@@ -7,5 +7,5 @@ This project was developed using **Expo Go** and can be viewed directly in your 
 - **Foodapp Link**: https://snack.expo.dev/@cellinemaccabee/food-app
 
 Grades: 
-Midterm: A
-Endterm: A
+- Midterm: A
+- Endterm: A
